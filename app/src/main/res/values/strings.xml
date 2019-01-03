@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IntentColor</string>
+    <string-array name="color_name_array">
+        <item name="red">Red</item>
+        <item name="orange">Orange</item>
+        <item name="yellow">Yellow</item>
+        <item name="green">Green</item>
+        <item name="blue">Blue</item>
+        <item name="indigo">Indigo</item>
+        <item name="violet">Violet</item>
+    </string-array>
+    <string-array name="forecolor">
+        <item>#ea3333</item>
+        <item>#eda623</item>
+        <item>#f9f90a</item>
+        <item>#11fa11</item>
+        <item>#0c0ccc</item>
+        <item>#4b0082</item>
+        <item>#ee82ee</item>
+    </string-array>
+</resources>
